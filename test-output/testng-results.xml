@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Newtours Site" duration-ms="34866" started-at="2017-07-26T16:01:03Z" finished-at="2017-07-26T16:01:38Z">
+    <groups>
+    </groups>
+    <test name="Complete NewTours Site Test" duration-ms="34866" started-at="2017-07-26T16:01:03Z" finished-at="2017-07-26T16:01:38Z">
+      <class name="cstech.com.Testngtest.Test.BookFlight">
+        <test-method status="PASS" signature="SelectFlightTest()[pri:1, instance:cstech.com.Testngtest.Test.BookFlight@523884b2]" name="SelectFlightTest" duration-ms="29234" started-at="2017-07-26T22:01:03Z" finished-at="2017-07-26T22:01:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectFlightTest -->
+        <test-method status="PASS" signature="waitforpageload3()[pri:2, instance:cstech.com.Testngtest.Test.BookFlight@523884b2]" name="waitforpageload3" duration-ms="29" started-at="2017-07-26T22:01:32Z" finished-at="2017-07-26T22:01:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitforpageload3 -->
+        <test-method status="PASS" signature="BookFlight2()[pri:3, instance:cstech.com.Testngtest.Test.BookFlight@523884b2]" name="BookFlight2" duration-ms="5542" started-at="2017-07-26T22:01:32Z" finished-at="2017-07-26T22:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight2 -->
+      </class> <!-- cstech.com.Testngtest.Test.BookFlight -->
+    </test> <!-- Complete NewTours Site Test -->
+  </suite> <!-- Test Newtours Site -->
+</testng-results>
